@@ -1,0 +1,18 @@
+# Environment Variables
+.env
+
+# Installed Gems
+*.gem
+*.rbc
+.bundle/
+coverage/
+*.log
+*.tmp
+*.swp
+/vendor/
+
+# Jekyll
+_site/
+.sass-cache
+*.jekyll-cache/
+.jekyll-metadata

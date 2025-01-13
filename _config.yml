@@ -1,0 +1,25 @@
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+minimal_mistakes_skin_dark: "dark"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-github-metadata
+
+exclude:
+  - feed.xml
+  - Rakefile
+
+title   : "Aldrin Morris D. Balitbit"
+url     : "https://aldrinbalitbit.github.io"
+baseurl : ""
+locale  : "en-PH"
+copyright: 2006
+copyright_url: "https://github.com/aldrinbalitbit"
+
+atom_feed:
+  hide: true
